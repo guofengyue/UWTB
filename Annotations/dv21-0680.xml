@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dv21_aps</folder>
+	<filename>dv21-0680.bmp</filename>
+	<path>D:\数据集标注\dv21\dv21_aps\dv21-0680.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>125</ymin>
+			<xmax>213</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>72</ymin>
+			<xmax>341</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>1</ymin>
+			<xmax>237</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+</annotation>

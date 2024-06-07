@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dv80_aps</folder>
+	<filename>dv80-0580.bmp</filename>
+	<path>F:\桌面\jijiji\dv80-77\dv80_aps\dv80-0580.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>82</ymin>
+			<xmax>63</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>204</ymin>
+			<xmax>114</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>189</ymin>
+			<xmax>267</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

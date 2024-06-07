@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv_aps</folder>
+	<filename>sum7_aps_frame825.bmp</filename>
+	<path>C:\Users\86198\Documents\Tencent Files\2384866429\FileRecv\dv56-47\dv_aps\sum7_aps_frame825.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>169</ymin>
+			<xmax>140</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>213</ymin>
+			<xmax>290</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

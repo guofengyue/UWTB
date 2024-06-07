@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv19_aps</folder>
+	<filename>dv19-1530.bmp</filename>
+	<path>F:\data\dv19-84\dv19_aps\dv19-1530.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>50</ymin>
+			<xmax>243</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>59</ymin>
+			<xmax>234</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

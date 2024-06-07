@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv49_aps</folder>
+	<filename>dv49-1675.bmp</filename>
+	<path>F:\data\dv49-90\dv49_aps\dv49-1675.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>107</ymin>
+			<xmax>244</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>44</ymin>
+			<xmax>308</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

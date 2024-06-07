@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv32_aps</folder>
+	<filename>dv32-1625.bmp</filename>
+	<path>F:\data\dv32-99\dv32_aps\dv32-1625.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>1</ymin>
+			<xmax>261</xmax>
+			<ymax>19</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>1</ymin>
+			<xmax>106</xmax>
+			<ymax>20</ymax>
+		</bndbox>
+	</object>
+</annotation>

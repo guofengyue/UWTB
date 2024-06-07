@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv19_aps</folder>
+	<filename>dv19-0555.bmp</filename>
+	<path>F:\data\dv19-84\dv19_aps\dv19-0555.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>203</ymin>
+			<xmax>262</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>102</ymin>
+			<xmax>39</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

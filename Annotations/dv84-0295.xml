@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv84_aps</folder>
+	<filename>dv84-0295.bmp</filename>
+	<path>F:\桌面\jijiji\dv84-70\dv84_aps\dv84-0295.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>97</ymin>
+			<xmax>233</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>177</ymin>
+			<xmax>116</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

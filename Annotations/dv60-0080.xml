@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv60_aps</folder>
+	<filename>dv60-0080.bmp</filename>
+	<path>F:\data\dv60-53\dv60_aps\dv60-0080.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>19</ymin>
+			<xmax>190</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>moon jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>6</ymin>
+			<xmax>117</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv19_aps</folder>
+	<filename>dv19-1350.bmp</filename>
+	<path>F:\data\dv19-84\dv19_aps\dv19-1350.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>31</ymin>
+			<xmax>167</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>175</ymin>
+			<xmax>51</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

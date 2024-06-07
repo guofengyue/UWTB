@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv32_aps</folder>
+	<filename>dv32-1925.bmp</filename>
+	<path>F:\data\dv32-99\dv32_aps\dv32-1925.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>33</ymin>
+			<xmax>338</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>160</ymin>
+			<xmax>307</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

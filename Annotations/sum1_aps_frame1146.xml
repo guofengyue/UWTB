@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv_aps</folder>
+	<filename>sum1_aps_frame1146.bmp</filename>
+	<path>F:\data\dv54-51\dv_aps\sum1_aps_frame1146.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>siberian prawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>39</ymin>
+			<xmax>101</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>109</ymin>
+			<xmax>317</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

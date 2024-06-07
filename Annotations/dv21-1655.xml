@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv21_aps</folder>
+	<filename>dv21-1655.bmp</filename>
+	<path>D:\数据集标注\dv21\dv21_aps\dv21-1655.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>42</ymin>
+			<xmax>340</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv14_aps</folder>
+	<filename>dv14-0255.bmp</filename>
+	<path>F:\data\dv14-108\dv14_aps\dv14-0255.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>7</ymin>
+			<xmax>126</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>204</ymin>
+			<xmax>63</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

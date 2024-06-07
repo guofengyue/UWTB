@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv35_aps</folder>
+	<filename>dv35-0495.bmp</filename>
+	<path>F:\data\dv35-144\dv35_aps\dv35-0495.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>siberian prawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>200</ymin>
+			<xmax>213</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>33</ymin>
+			<xmax>257</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

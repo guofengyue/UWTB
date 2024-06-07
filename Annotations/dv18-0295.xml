@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv18_aps</folder>
+	<filename>dv18-0295.bmp</filename>
+	<path>F:\data\dv18-88\dv18_aps\dv18-0295.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>34</ymin>
+			<xmax>307</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>41</ymin>
+			<xmax>27</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv38_aps</folder>
+	<filename>dv38-0580.bmp</filename>
+	<path>F:\data\dv38 39 40-56\dv38_aps\dv38-0580.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>62</ymin>
+			<xmax>153</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv97_aps</folder>
+	<filename>dv98-0800.bmp</filename>
+	<path>F:\桌面\jijiji\dv97-68\dv97_aps\dv98-0800.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>170</ymin>
+			<xmax>111</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>157</ymin>
+			<xmax>69</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

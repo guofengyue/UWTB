@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv13_aps</folder>
+	<filename>dv13-0045.bmp</filename>
+	<path>F:\data\dv13-132\dv13_aps\dv13-0045.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>102</ymin>
+			<xmax>170</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

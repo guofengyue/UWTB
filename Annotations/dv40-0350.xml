@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv38_aps</folder>
+	<filename>dv40-0350.bmp</filename>
+	<path>F:\data\dv38 39 40-56\dv38_aps\dv40-0350.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>70</ymin>
+			<xmax>221</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>69</ymin>
+			<xmax>115</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

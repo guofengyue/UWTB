@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv19_aps</folder>
+	<filename>dv19-0810.bmp</filename>
+	<path>F:\data\dv19-84\dv19_aps\dv19-0810.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>132</ymin>
+			<xmax>68</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>126</ymin>
+			<xmax>126</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

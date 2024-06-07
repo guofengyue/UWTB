@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv2_aps</folder>
+	<filename>dv2-0340.bmp</filename>
+	<path>F:\data\dv2\dv2_aps\dv2-0340.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>86</ymin>
+			<xmax>198</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>49</ymin>
+			<xmax>257</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

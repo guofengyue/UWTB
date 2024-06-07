@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv54_aps</folder>
+	<filename>dv54-0095.bmp</filename>
+	<path>F:\data\dv54-30\dv54_aps\dv54-0095.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>siberian prawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>166</ymin>
+			<xmax>103</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>154</ymin>
+			<xmax>188</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

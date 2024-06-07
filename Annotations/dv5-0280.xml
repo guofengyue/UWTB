@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv5_aps</folder>
+	<filename>dv5-0280.bmp</filename>
+	<path>D:\新建文件夹\dv5_aps\dv5-0280.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>97</ymin>
+			<xmax>213</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>127</ymin>
+			<xmax>290</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

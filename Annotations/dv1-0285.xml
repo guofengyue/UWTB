@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv1_aps</folder>
+	<filename>dv1-0285.bmp</filename>
+	<path>D:\数据集标注\dv1\dv1_aps\dv1-0285.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>123</ymin>
+			<xmax>37</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>159</ymin>
+			<xmax>73</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

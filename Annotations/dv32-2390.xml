@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv32_aps</folder>
+	<filename>dv32-2390.bmp</filename>
+	<path>F:\data\dv32-99\dv32_aps\dv32-2390.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>36</ymin>
+			<xmax>127</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>9</ymin>
+			<xmax>261</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>

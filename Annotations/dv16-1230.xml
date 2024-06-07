@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv16_aps</folder>
+	<filename>dv16-1230.bmp</filename>
+	<path>F:\data\dv16-57\dv16_aps\dv16-1230.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>1</ymin>
+			<xmax>162</xmax>
+			<ymax>24</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>154</ymin>
+			<xmax>346</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

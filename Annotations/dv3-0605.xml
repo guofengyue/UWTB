@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv3_aps</folder>
+	<filename>dv3-0605.bmp</filename>
+	<path>D:\数据集标注\dv3\dv3_aps\dv3-0605.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>1</ymin>
+			<xmax>343</xmax>
+			<ymax>21</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>99</ymin>
+			<xmax>248</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

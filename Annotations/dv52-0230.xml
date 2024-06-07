@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv52_aps</folder>
+	<filename>dv52-0230.bmp</filename>
+	<path>F:\data\dv52-44\dv52_aps\dv52-0230.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>7</ymin>
+			<xmax>127</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

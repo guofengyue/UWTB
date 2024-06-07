@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv7_aps</folder>
+	<filename>dv7-0610.bmp</filename>
+	<path>D:\数据集标注\dv7\dv7_aps\dv7-0610.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>92</ymin>
+			<xmax>283</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>76</ymin>
+			<xmax>327</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

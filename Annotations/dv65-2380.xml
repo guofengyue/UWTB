@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv65_aps</folder>
+	<filename>dv65-2380.bmp</filename>
+	<path>F:\data\dv65-222\dv65_aps\dv65-2380.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>1</ymin>
+			<xmax>126</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>moon jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>2</ymin>
+			<xmax>237</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

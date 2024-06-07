@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv4_aps</folder>
+	<filename>dv4-0760.bmp</filename>
+	<path>D:\数据集标注\dv4\dv4_aps\dv4-0760.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>140</ymin>
+			<xmax>119</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>138</ymin>
+			<xmax>130</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

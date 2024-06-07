@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv17_aps</folder>
+	<filename>dv17-0695.bmp</filename>
+	<path>F:\data\dv17-28\dv17_aps\dv17-0695.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>28</ymin>
+			<xmax>240</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>121</ymin>
+			<xmax>346</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

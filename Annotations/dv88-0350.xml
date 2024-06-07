@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv88_aps</folder>
+	<filename>dv88-0350.bmp</filename>
+	<path>F:\桌面\jijiji\dv88-78\dv88_aps\dv88-0350.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>150</ymin>
+			<xmax>127</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flame jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>163</ymin>
+			<xmax>65</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

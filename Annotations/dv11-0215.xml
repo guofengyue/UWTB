@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv11_aps</folder>
+	<filename>dv11-0215.bmp</filename>
+	<path>F:\data\dv11\dv11_aps\dv11-0215.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redtail glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>2</ymin>
+			<xmax>266</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>

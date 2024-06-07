@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dv12_aps</folder>
+	<filename>dv12-0025.bmp</filename>
+	<path>D:\数据集标注\dv12\dv12_aps\dv12-0025.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>64</ymin>
+			<xmax>251</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

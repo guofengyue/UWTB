@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv54_aps</folder>
+	<filename>dv54-0245.bmp</filename>
+	<path>F:\data\dv54-30\dv54_aps\dv54-0245.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>146</ymin>
+			<xmax>191</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>86</ymin>
+			<xmax>270</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

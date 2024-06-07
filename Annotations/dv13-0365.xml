@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dv13_aps</folder>
+	<filename>dv13-0365.bmp</filename>
+	<path>F:\data\dv13-132\dv13_aps\dv13-0365.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X-ray fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>92</ymin>
+			<xmax>115</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red belly glassfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>40</ymin>
+			<xmax>332</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>
